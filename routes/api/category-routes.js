@@ -23,6 +23,7 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', (req, res) => {
   // delete a category by its `id` value
+  
 });
 
 module.exports = router;
